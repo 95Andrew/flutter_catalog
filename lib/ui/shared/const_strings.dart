@@ -1,0 +1,11 @@
+const String login = 'login';
+const String registration = 'registration';
+const String withoutRegistering = 'without Registering';
+const String password = 'Password';
+const String enterLogin = 'Enter login';
+const String enterPassword = 'Enter Password';
+const String register = 'register';
+const String orderComment = 'order comment';
+const String submitComment = 'Submit Comment';
+const String logout = 'Logout';
+const String home = 'to home';
